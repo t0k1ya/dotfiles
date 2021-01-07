@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/tokiya/MyProjects/junk-box/src'
+let g:netrw_dirhist_0='/Users/tokiya/Desktop'
+let g:netrw_dirhist_9='/Users/tokiya/MyProjects/junk-box/src'
+let g:netrw_dirhist_8='/Users/tokiya/MyProjects/junk-box'
+let g:netrw_dirhist_7='/Users/tokiya/MyProjects/junk-box/src/app'
+let g:netrw_dirhist_6='/Users/tokiya/MyProjects/junk-box/src'
+let g:netrw_dirhist_5='/Users/tokiya/MyProjects/junk-box/src/app/controllers'
+let g:netrw_dirhist_4='/Users/tokiya/MyProjects/junk-box/src/app'
+let g:netrw_dirhist_3='/Users/tokiya/MyProjects/junk-box/src'
+let g:netrw_dirhist_2='/Users/tokiya/MyProjects/junk-box/src/app/views'
