@@ -42,6 +42,8 @@ set clipboard=unnamed
 
 set shiftwidth=2
 
+set noswapfile
+
 colorscheme molokai
 
 
