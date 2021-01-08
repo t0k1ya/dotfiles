@@ -8,8 +8,9 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'tpope/vim-rails'
 Plugin 'junegunn/fzf.vim'
 Plugin 'tpope/vim-surround'
-
-" 導入したいプラグインを以下に列挙
+" ファイルのあいまい検索
+Plugin 'ctrlpvim/ctrlp.vim'
+" 導入したいプラグインを以下のように列挙
 " Plugin '[Github Author]/[Github repo]' の形式で記入
 Plugin 'airblade/vim-gitgutter'
 
