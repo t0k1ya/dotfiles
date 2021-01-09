@@ -47,4 +47,4 @@ set noswapfile
 
 colorscheme molokai
 
-
+let NERDTreeShowHidden=1
