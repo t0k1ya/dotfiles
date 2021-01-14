@@ -10,6 +10,8 @@ Plugin 'junegunn/fzf.vim'
 Plugin 'tpope/vim-surround'
 " ファイルのあいまい検索
 Plugin 'ctrlpvim/ctrlp.vim'
+" リサイズ
+Plugin 'simeji/winresizer'
 " 導入したいプラグインを以下のように列挙
 " Plugin '[Github Author]/[Github repo]' の形式で記入
 Plugin 'airblade/vim-gitgutter'
